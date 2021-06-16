@@ -3,8 +3,7 @@ In the task below you will have to build your own autoencoder neural network
 model.
 
 WE've already defined a model class for your AutoEncoder, and the tests
-that your code has to pass. All you have to do is mainly fill the lines 46-51,
-57-61, 97-101. DO NOT USE CONVOLUTIONAL LAYERS
+that your code has to pass. All you have to do is mainly fill the lines 39-40, 83-85. DO NOT USE CONVOLUTIONAL LAYERS
 """
 import os
 import torch
