@@ -1,4 +1,4 @@
-# Deep Learning Scientist Task
+# Computer Vision Scientist Task
 
 ## Introduction
 
@@ -12,7 +12,7 @@ You should hand in a markdown text file containing your written answers, and a c
 
 ## Autoencoder task
 
-For the autoencoder task you will find most of the information in the docstrings of the file, complete the code and when you run it should you get a message saying that you succeeded! Do study the test function, it will help you complete the task.
+For the autoencoder task you will find most of the information in the docstrings of the file, complete the code and when you run it you should get a message saying that you succeeded! Do study the test function, it will help you complete the task.
 
 ## Questions related to the autoencoder task
 
