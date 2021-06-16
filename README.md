@@ -24,3 +24,7 @@ For the autoencoder task you will find most of the information in the docstrings
 
 1. Computer vision is a very active field, and many of the techniques being developed are highly transferrable from classifying cats and dogs all the way to self-driving cars. But specific domains of application often bring specific concerns that make the generic algorithms inappropriate, or at least require some additional thought. In your experience, what is special about remote sensing data that makes it different from classifying cats and dogs?
 2. What is the most exciting computer vision paper that you have read recently? Why did you find it interesting? Did you have any criticisms of the work? Could the ideas in the paper be applied in a remote sensing setting?
+
+## Note on confidentiality
+
+There are no trade secrets in this technical task, but please do not publish your results publicly (for example through a public github repo). If future candidates for similar roles can search and find answers to these questions, it will bias results and make it harder for the best candidates to be successful.
